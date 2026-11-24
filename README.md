@@ -56,5 +56,3 @@ Sources: Alphabet 10-K / 10-Q (SEC), Google 2026 Environmental Report, peer-revi
 ---
 
 <sub>National Taipei University · Sustainability and ESG Data Analytics · Fall 2026</sub>
-
--->
