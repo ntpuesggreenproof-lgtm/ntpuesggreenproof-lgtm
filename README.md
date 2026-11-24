@@ -8,7 +8,7 @@ We are five students in **Sustainability and ESG Data Analytics** (Prof. Min-Yuh
 
 | | Member | University | Role |
 |---|---|---|---|
-| 🔵 | **Hugo** | HSBA Hamburg School of Business Administration | Group leader |
+| 🔵 | **Hugo** | HSBA Hamburg School of Business Administration | Group leader · [personal website](https://hugo-roeske-personalwebsite.streamlit.app/) |
 | 🔴 | **Axel** | ESILV Paris | Vice leader |
 | 🟡 | **Kjell** | HSBA Hamburg School of Business Administration | Team member · [personal website](https://kjell-boyens.streamlit.app) |
 | 🟢 | **Yanis** | Centrale Paris | Team member |
